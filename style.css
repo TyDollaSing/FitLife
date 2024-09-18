@@ -1,0 +1,2386 @@
+.complete,
+.complete * {
+  box-sizing: border-box;
+}
+.complete {
+  height: 6242px;
+  position: relative;
+}
+.nosotros {
+  background: var(--white, #ffffff);
+  width: 1550px;
+  height: 850px;
+  position: absolute;
+  left: 0px;
+  top: 1052px;
+  overflow: hidden;
+}
+.frame-183 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  width: 128px;
+  height: 30px;
+  position: absolute;
+  left: 64px;
+  top: 584.5px;
+}
+.frame-201 {
+  display: flex;
+  flex-direction: column;
+  gap: 90px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: calc(50% - 713px);
+  top: calc(50% - 327px);
+}
+.frame-180 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1250px;
+  position: relative;
+}
+.porque-fit-life {
+  color: var(--black, #000000);
+  text-align: left;
+  font-family: "Signika-Bold", sans-serif;
+  font-size: 63px;
+  font-weight: 700;
+  opacity: 0.9;
+  position: relative;
+  width: 460px;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat {
+  color: var(--black, #000000);
+  text-align: center;
+  font-family: "Signika-Light", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  opacity: 0.4;
+  position: relative;
+  width: 1250px;
+}
+.frame-200 {
+  display: flex;
+  flex-direction: row;
+  gap: 87px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-199 {
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-197 {
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-195 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-21 {
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  position: static;
+}
+.rectangle-32 {
+  background: var(--grey, #1f1f1f);
+  border-radius: 100px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.boxing-glove-01 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 8px;
+  top: 8px;
+  overflow: visible;
+}
+.frame-194 {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.calificaciones-entrenador {
+  color: var(--grey, #1f1f1f);
+  text-align: left;
+  font-family: "Signika-SemiBold", sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+  opacity: 0.9;
+  position: relative;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore {
+  color: var(--grey, #1f1f1f);
+  text-align: left;
+  font-family: "Signika-Light", sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  opacity: 0.4;
+  position: relative;
+  width: 292px;
+}
+.frame-196 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-24 {
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  position: static;
+}
+.dumbbell-01 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 8px;
+  top: 8px;
+  overflow: visible;
+}
+.instalaciones {
+  color: var(--grey, #1f1f1f);
+  text-align: left;
+  font-family: "Signika-SemiBold", sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+  opacity: 0.9;
+  position: relative;
+}
+.frame-198 {
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-22 {
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  position: static;
+}
+.money-bag-02 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 8px;
+  top: 8px;
+  overflow: visible;
+}
+.costos-membresia {
+  color: var(--grey, #1f1f1f);
+  text-align: left;
+  font-family: "Signika-SemiBold", sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+  opacity: 0.9;
+  position: relative;
+}
+.group-23 {
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  position: static;
+}
+.time-02 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 8px;
+  top: 8px;
+  overflow: visible;
+}
+.horarios {
+  color: var(--grey, #1f1f1f);
+  text-align: left;
+  font-family: "Signika-SemiBold", sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+  opacity: 0.9;
+  position: relative;
+}
+.frame-193 {
+  display: flex;
+  flex-direction: row;
+  gap: 25.05px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  
+  transform: rotate(0deg) scale(-1, 1);
+}
+.rectangle-29 {
+  background: linear-gradient(to left, #d9d9d9, #d9d9d9);
+  border-radius: 38.03px;
+  flex-shrink: 0;
+  width: 284.49px;
+  height: 410px;
+  position: relative;
+  box-shadow: 3.64px 5.47px 14.58px 0px rgba(0, 0, 0, 0.1),
+    15.49px 21.87px 26.42px 0px rgba(0, 0, 0, 0.09),
+    35.53px 48.29px 36.44px 0px rgba(0, 0, 0, 0.05),
+    63.78px 86.56px 42.82px 0px rgba(0, 0, 0, 0.01),
+    99.31px 134.84px 47.38px 0px rgba(0, 0, 0, 0);
+  object-fit: cover;
+}
+.frame-192 {
+  display: flex;
+  flex-direction: column;
+  gap: 25.05px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.rectangle-30 {
+  background: linear-gradient(to left, #d9d9d9, #d9d9d9);
+  border-radius: 35.36px;
+  flex-shrink: 0;
+  width: 264.52px;
+  height: 180px;
+  position: relative;
+  box-shadow: 2.54px 3.39px 9.32px 0px rgba(0, 0, 0, 0.1),
+    10.17px 13.55px 16.94px 0px rgba(0, 0, 0, 0.09),
+    22.87px 31.34px 23.72px 0px rgba(0, 0, 0, 0.05),
+    40.66px 55.91px 27.96px 0px rgba(0, 0, 0, 0.01),
+    64.38px 87.26px 30.5px 0px rgba(0, 0, 0, 0);
+  object-fit: cover;
+}
+.rectangle-31 {
+  background: linear-gradient(to left, #d9d9d9, #d9d9d9);
+  border-radius: 35.36px;
+  flex-shrink: 0;
+  width: 264.52px;
+  height: 180px;
+  position: relative;
+  box-shadow: 2.54px 3.39px 9.32px 0px rgba(0, 0, 0, 0.1),
+    10.17px 13.55px 16.94px 0px rgba(0, 0, 0, 0.09),
+    22.87px 31.34px 23.72px 0px rgba(0, 0, 0, 0.05),
+    40.66px 55.91px 27.96px 0px rgba(0, 0, 0, 0.01),
+    64.38px 87.26px 30.5px 0px rgba(0, 0, 0, 0);
+  object-fit: cover;
+}
+.entrenadores {
+  background: var(--white, #ffffff);
+  width: 1550px;
+  height: 1408px;
+  position: absolute;
+  left: 0px;
+  top: 1902px;
+  overflow: hidden;
+}
+.frame-209 {
+  display: flex;
+  flex-direction: row;
+  gap: 84px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 79px;
+  top: 980px;
+}
+.group-36 {
+  flex-shrink: 0;
+  width: 570px;
+  height: 350px;
+  position: static;
+}
+.rectangle-34 {
+  background: linear-gradient(to left, #d9d9d9, #d9d9d9);
+  border-radius: 20px;
+  width: 200px;
+  height: 350px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 3px 5px 12px 0px rgba(0, 0, 0, 0.1),
+    11px 20px 23px 0px rgba(0, 0, 0, 0.09),
+    25px 44px 31px 0px rgba(0, 0, 0, 0.05),
+    45px 79px 36px 0px rgba(0, 0, 0, 0.01), 70px 123px 40px 0px rgba(0, 0, 0, 0);
+  object-fit: cover;
+}
+.rectangle-35 {
+  background: linear-gradient(to left, #d9d9d9, #d9d9d9);
+  border-radius: 20px;
+  width: 350px;
+  height: 350px;
+  position: absolute;
+  left: 220px;
+  top: 0px;
+  box-shadow: 5px 5px 16px 0px rgba(0, 0, 0, 0.1),
+    21px 20px 28px 0px rgba(0, 0, 0, 0.09),
+    46px 44px 38px 0px rgba(0, 0, 0, 0.05),
+    82px 79px 45px 0px rgba(0, 0, 0, 0.01),
+    129px 123px 50px 0px rgba(0, 0, 0, 0);
+  object-fit: cover;
+}
+.frame-208 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-207 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.estas-buscando-un-guia {
+  color: var(--black, #000000);
+  text-align: left;
+  font-family: "Signika-Medium", sans-serif;
+  font-size: 27px;
+  font-weight: 500;
+  text-transform: uppercase;
+  opacity: 0.7;
+  position: relative;
+}
+.entrenadores2 {
+  color: var(--black, #000000);
+  text-align: left;
+  font-family: "Signika-Bold", sans-serif;
+  font-size: 63px;
+  font-weight: 700;
+  text-transform: uppercase;
+  opacity: 0.9;
+  position: relative;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat2 {
+  color: var(--black, #000000);
+  text-align: left;
+  font-family: "Signika-Light", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  opacity: 0.4;
+  position: relative;
+  width: 738px;
+}
+.frame-181 {
+  background: var(--black, #000000);
+  border-radius: 15px;
+  padding: 15px 38px 15px 38px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.seguir-explorando {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "Signika-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+}
+.frame-1802 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  width: 1250px;
+  position: absolute;
+  left: 149.5px;
+  top: 98px;
+}
+.conoce-nuestro-equipo {
+  color: var(--black, #000000);
+  text-align: left;
+  font-family: "Signika-Bold", sans-serif;
+  font-size: 63px;
+  font-weight: 700;
+  opacity: 0.9;
+  position: relative;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-a {
+  color: var(--black, #000000);
+  text-align: center;
+  font-family: "Signika-Light", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  opacity: 0.4;
+  position: relative;
+  width: 885px;
+}
+.group-39 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-38 {
+  border-radius: 30px;
+  width: 335px;
+  height: 400px;
+  position: absolute;
+  left: 607px;
+  top: 352px;
+  box-shadow: 5px 5px 17px 0px rgba(0, 0, 0, 0.1),
+    22px 21px 31px 0px rgba(0, 0, 0, 0.09),
+    49px 48px 41px 0px rgba(0, 0, 0, 0.05),
+    88px 85px 49px 0px rgba(0, 0, 0, 0.01),
+    137px 134px 54px 0px rgba(0, 0, 0, 0);
+  object-fit: cover;
+}
+.group-41 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-382 {
+  background: rgba(0, 0, 0, 0.4);
+  border-radius: 30px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.04);
+  border-width: 1px;
+  width: 335px;
+  height: 400px;
+  position: absolute;
+  left: 607px;
+  top: 352px;
+  backdrop-filter: blur(7.2px);
+}
+.group-40 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-39 {
+  border-radius: 30px;
+  width: 335px;
+  height: 400px;
+  position: absolute;
+  left: 1092px;
+  top: 352px;
+  box-shadow: 5px 5px 17px 0px rgba(0, 0, 0, 0.1),
+    22px 21px 31px 0px rgba(0, 0, 0, 0.09),
+    49px 48px 41px 0px rgba(0, 0, 0, 0.05),
+    88px 85px 49px 0px rgba(0, 0, 0, 0.01),
+    137px 134px 54px 0px rgba(0, 0, 0, 0);
+  object-fit: cover;
+}
+.group-38 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-37 {
+  border-radius: 30px;
+  width: 335px;
+  height: 400px;
+  position: absolute;
+  left: 122px;
+  top: 352px;
+  box-shadow: 5px 5px 17px 0px rgba(0, 0, 0, 0.1),
+    22px 21px 31px 0px rgba(0, 0, 0, 0.09),
+    49px 48px 41px 0px rgba(0, 0, 0, 0.05),
+    88px 85px 49px 0px rgba(0, 0, 0, 0.01),
+    137px 134px 54px 0px rgba(0, 0, 0, 0);
+  object-fit: cover;
+}
+.frame-210 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 636px;
+  top: 382px;
+}
+.bryan-c {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "Signika-SemiBold", sans-serif;
+  font-size: 34px;
+  font-weight: 600;
+  opacity: 0.8;
+  position: relative;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat3 {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "Signika-Light", sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  opacity: 0.8;
+  position: relative;
+  width: 278px;
+}
+.planes {
+  background: var(--white, #ffffff);
+  width: 1550px;
+  height: 850px;
+  position: absolute;
+  left: 0px;
+  top: 3310px;
+  overflow: hidden;
+}
+.frame-211 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 63px;
+  top: 81px;
+}
+.tabla-precios {
+  color: var(--black, #000000);
+  text-align: center;
+  font-family: "Signika-Regular", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.01em;
+  font-weight: 400;
+  opacity: 0.4;
+  position: relative;
+}
+.unete-hoy {
+  color: var(--black, #000000);
+  text-align: left;
+  font-family: "Signika-Bold", sans-serif;
+  font-size: 63px;
+  font-weight: 700;
+  text-transform: uppercase;
+  opacity: 0.9;
+  position: relative;
+}
+.frame-214 {
+  background: var(--white, #ffffff);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1295px;
+  top: 123px;
+  box-shadow: 3px 1px 6px 0px rgba(0, 0, 0, 0.1),
+    11px 5px 12px 0px rgba(0, 0, 0, 0.09),
+    24px 11px 16px 0px rgba(0, 0, 0, 0.05),
+    42px 20px 19px 0px rgba(0, 0, 0, 0.01), 66px 31px 20px 0px rgba(0, 0, 0, 0);
+}
+.group-44 {
+  flex-shrink: 0;
+  width: 100px;
+  height: 40px;
+  position: static;
+}
+.rectangle-40 {
+  background: var(--white, #ffffff);
+  border-radius: 15px;
+  width: 100px;
+  height: 40px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.mensual {
+  color: var(--black, #000000);
+  text-align: left;
+  font-family: "Signika-SemiBold", sans-serif;
+  font-size: 17px;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 81px);
+  top: calc(50% - 10px);
+}
+.group-43 {
+  flex-shrink: 0;
+  width: 100px;
+  height: 40px;
+  position: static;
+}
+.rectangle-402 {
+  background: var(--black, #000000);
+  border-radius: 15px;
+  width: 100px;
+  height: 40px;
+  position: absolute;
+  left: 100px;
+  top: 0px;
+}
+.anual {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "Signika-SemiBold", sans-serif;
+  font-size: 17px;
+  font-weight: 600;
+  position: absolute;
+  left: 127px;
+  top: 10px;
+}
+.group-48 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-41 {
+  background: var(--white, #ffffff);
+  border-radius: 15px;
+  width: 406px;
+  height: 506px;
+  position: absolute;
+  left: 116px;
+  top: 249px;
+  box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.25);
+}
+.frame-216 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 140px;
+  top: 278px;
+}
+.frame-215 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.plan-basico {
+  color: var(--black, #000000);
+  text-align: left;
+  font-family: "Signika-SemiBold", sans-serif;
+  font-size: 17px;
+  font-weight: 600;
+  opacity: 0.7;
+  position: relative;
+}
+.group-45 {
+  flex-shrink: 0;
+  width: 125px;
+  height: 59px;
+  position: static;
+}
+._50 {
+  color: var(--black, #000000);
+  text-align: left;
+  font-family: "Signika-SemiBold", sans-serif;
+  font-size: 48px;
+  font-weight: 600;
+  opacity: 0.9;
+  position: absolute;
+  left: 0px;
+  top: 31px;
+}
+.mes {
+  color: var(--black, #000000);
+  text-align: left;
+  font-family: "Signika-SemiBold", sans-serif;
+  font-size: 17px;
+  font-weight: 600;
+  opacity: 0.9;
+  position: absolute;
+  left: 83px;
+  top: 60px;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut {
+  color: var(--black, #000000);
+  text-align: left;
+  font-family: "Signika-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  opacity: 0.5;
+  position: relative;
+  width: 358px;
+}
+.frame-217 {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 140px;
+  top: 460px;
+}
+.group-46 {
+  opacity: 0.4;
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: static;
+}
+.ellipse-5 {
+  background: var(--grey, #1f1f1f);
+  border-radius: 50%;
+  opacity: 0.7;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.tick-02 {
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  left: 4px;
+  top: 4px;
+  overflow: visible;
+}
+.lorem-ipsum-dolor-sit-amet {
+  color: var(--black, #000000);
+  text-align: left;
+  font-family: "Signika-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  opacity: 0.6;
+  position: relative;
+}
+.frame-218 {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 140px;
+  top: 492px;
+}
+.tick-022 {
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  left: 4px;
+  top: 4px;
+  overflow: visible;
+}
+.frame-219 {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 140px;
+  top: 524px;
+}
+.tick-023 {
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  left: 4px;
+  top: 4px;
+  overflow: visible;
+}
+.frame-220 {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 140px;
+  top: 556px;
+}
+.tick-024 {
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  left: 4px;
+  top: 4px;
+  overflow: visible;
+}
+.frame-221 {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 140px;
+  top: 588px;
+}
+.tick-025 {
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  left: 4px;
+  top: 4px;
+  overflow: visible;
+}
+.group-47 {
+  width: 370px;
+  height: 60px;
+  position: static;
+}
+.rectangle-42 {
+  background: var(--grey, #1f1f1f);
+  border-radius: 15px;
+  width: 370px;
+  height: 60px;
+  position: absolute;
+  left: 128px;
+  top: 677px;
+}
+.escoger-plan {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Signika-Bold", sans-serif;
+  font-size: 21px;
+  font-weight: 700;
+  position: absolute;
+  left: 254px;
+  top: 694px;
+}
+.group-49 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-412 {
+  background: var(--grey, #1f1f1f);
+  border-radius: 15px;
+  width: 406px;
+  height: 506px;
+  position: absolute;
+  left: 572px;
+  top: 249px;
+  box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.25);
+}
+.frame-2162 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 596px;
+  top: 278px;
+}
+.plan-premium {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "Signika-SemiBold", sans-serif;
+  font-size: 17px;
+  font-weight: 600;
+  opacity: 0.7;
+  position: relative;
+}
+._80 {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "Signika-SemiBold", sans-serif;
+  font-size: 48px;
+  font-weight: 600;
+  opacity: 0.9;
+  position: absolute;
+  left: 0px;
+  top: 31px;
+}
+.mes2 {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "Signika-SemiBold", sans-serif;
+  font-size: 17px;
+  font-weight: 600;
+  opacity: 0.9;
+  position: absolute;
+  left: 83px;
+  top: 60px;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut2 {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "Signika-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  opacity: 0.5;
+  position: relative;
+  width: 358px;
+}
+.frame-2172 {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 596px;
+  top: 460px;
+}
+.group-462 {
+  opacity: 0.9;
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: static;
+}
+.ellipse-52 {
+  background: var(--white, #ffffff);
+  border-radius: 50%;
+  opacity: 0.7;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.tick-026 {
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  left: 4px;
+  top: 4px;
+  overflow: visible;
+}
+.lorem-ipsum-dolor-sit-amet2 {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "Signika-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  opacity: 0.6;
+  position: relative;
+}
+.frame-2182 {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 596px;
+  top: 492px;
+}
+.tick-027 {
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  left: 4px;
+  top: 4px;
+  overflow: visible;
+}
+.frame-2192 {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 596px;
+  top: 524px;
+}
+.tick-028 {
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  left: 4px;
+  top: 4px;
+  overflow: visible;
+}
+.frame-2202 {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 596px;
+  top: 556px;
+}
+.tick-029 {
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  left: 4px;
+  top: 4px;
+  overflow: visible;
+}
+.frame-2212 {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 596px;
+  top: 588px;
+}
+.tick-0210 {
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  left: 4px;
+  top: 4px;
+  overflow: visible;
+}
+.rectangle-422 {
+  background: var(--white, #ffffff);
+  border-radius: 15px;
+  width: 370px;
+  height: 60px;
+  position: absolute;
+  left: 584px;
+  top: 677px;
+}
+.escoger-plan2 {
+  color: var(--grey, #1f1f1f);
+  text-align: center;
+  font-family: "Signika-Bold", sans-serif;
+  font-size: 21px;
+  font-weight: 700;
+  position: absolute;
+  left: 710px;
+  top: 694px;
+}
+.group-50 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-413 {
+  background: var(--white, #ffffff);
+  border-radius: 15px;
+  width: 406px;
+  height: 506px;
+  position: absolute;
+  left: 1028px;
+  top: 249px;
+  box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.25);
+}
+.frame-2163 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1052px;
+  top: 278px;
+}
+.plan-vip {
+  color: var(--black, #000000);
+  text-align: left;
+  font-family: "Signika-SemiBold", sans-serif;
+  font-size: 17px;
+  font-weight: 600;
+  opacity: 0.7;
+  position: relative;
+}
+.group-452 {
+  flex-shrink: 0;
+  width: 149px;
+  height: 59px;
+  position: static;
+}
+._120 {
+  color: var(--black, #000000);
+  text-align: left;
+  font-family: "Signika-SemiBold", sans-serif;
+  font-size: 48px;
+  font-weight: 600;
+  opacity: 0.9;
+  position: absolute;
+  left: 0px;
+  top: 31px;
+}
+.mes3 {
+  color: var(--black, #000000);
+  text-align: left;
+  font-family: "Signika-SemiBold", sans-serif;
+  font-size: 17px;
+  font-weight: 600;
+  opacity: 0.9;
+  position: absolute;
+  left: 107px;
+  top: 60px;
+}
+.frame-2173 {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1052px;
+  top: 460px;
+}
+.tick-0211 {
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  left: 4px;
+  top: 4px;
+  overflow: visible;
+}
+.frame-2183 {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1052px;
+  top: 492px;
+}
+.tick-0212 {
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  left: 4px;
+  top: 4px;
+  overflow: visible;
+}
+.frame-2193 {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1052px;
+  top: 524px;
+}
+.tick-0213 {
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  left: 4px;
+  top: 4px;
+  overflow: visible;
+}
+.frame-2203 {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1052px;
+  top: 556px;
+}
+.tick-0214 {
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  left: 4px;
+  top: 4px;
+  overflow: visible;
+}
+.frame-2213 {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1052px;
+  top: 588px;
+}
+.tick-0215 {
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  left: 4px;
+  top: 4px;
+  overflow: visible;
+}
+.rectangle-423 {
+  background: var(--grey, #1f1f1f);
+  border-radius: 15px;
+  width: 370px;
+  height: 60px;
+  position: absolute;
+  left: 1046px;
+  top: 677px;
+}
+.escoger-plan3 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Signika-Bold", sans-serif;
+  font-size: 21px;
+  font-weight: 700;
+  position: absolute;
+  left: 1172px;
+  top: 694px;
+}
+.valoraciones {
+  background: var(--white, #ffffff);
+  width: 1550px;
+  height: 850px;
+  position: absolute;
+  left: 0px;
+  top: 4160px;
+  overflow: hidden;
+}
+.frame-225 {
+  display: flex;
+  flex-direction: row;
+  gap: 92px;
+  align-items: center;
+  justify-content: flex-end;
+  position: absolute;
+  left: 63px;
+  top: calc(50% - 154px);
+}
+.group-51 {
+  flex-shrink: 0;
+  width: 435px;
+  height: 335px;
+  position: relative;
+  overflow: visible;
+}
+.group-58 {
+  flex-shrink: 0;
+  width: 961px;
+  height: 389px;
+  position: static;
+}
+.frame-224 {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 905px;
+  position: absolute;
+  left: 527px;
+  top: 54px;
+  overflow: hidden;
+}
+.group-55 {
+  flex-shrink: 0;
+  width: 500px;
+  height: 250px;
+  position: static;
+}
+.rectangle-43 {
+  background: var(--white, #ffffff);
+  border-radius: 30px;
+  border-style: solid;
+  border-color: var(--grey, #1f1f1f);
+  border-width: 0.5px;
+  width: 500px;
+  height: 250px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.25);
+}
+.frame-223 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 22px;
+  top: 28px;
+}
+.bayron {
+  color: #000000;
+  text-align: left;
+  font-family: "Signika-Medium", sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  opacity: 0.9;
+  position: relative;
+}
+.frame-239 {
+  opacity: 0.8;
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat4 {
+  color: var(--black, #000000);
+  text-align: left;
+  font-family: "Signika-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  opacity: 0.8;
+  position: relative;
+  width: 450px;
+}
+.group-56 {
+  flex-shrink: 0;
+  width: 500px;
+  height: 250px;
+  position: static;
+}
+.rectangle-432 {
+  background: var(--white, #ffffff);
+  border-radius: 30px;
+  border-style: solid;
+  border-color: var(--grey, #1f1f1f);
+  border-width: 0.5px;
+  width: 500px;
+  height: 250px;
+  position: absolute;
+  left: 524px;
+  top: 0px;
+  box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.25);
+}
+.vector {
+  width: 45px;
+  height: 19.64px;
+  position: absolute;
+  left: 961px;
+  top: 17.68px;
+  overflow: visible;
+}
+.frame-2232 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 546px;
+  top: 28px;
+}
+.sebastian {
+  color: #000000;
+  text-align: left;
+  font-family: "Signika-Medium", sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  opacity: 0.9;
+  position: relative;
+}
+.frame-2392 {
+  opacity: 0.8;
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.group-57 {
+  flex-shrink: 0;
+  width: 500px;
+  height: 250px;
+  position: static;
+}
+.rectangle-433 {
+  background: var(--white, #ffffff);
+  border-radius: 30px;
+  border-style: solid;
+  border-color: var(--grey, #1f1f1f);
+  border-width: 0.5px;
+  width: 500px;
+  height: 250px;
+  position: absolute;
+  left: 1048px;
+  top: 0px;
+  box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.25);
+}
+.vector2 {
+  width: 45px;
+  height: 19.64px;
+  position: absolute;
+  left: 1485px;
+  top: 17.68px;
+  overflow: visible;
+}
+.frame-2233 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1070px;
+  top: 28px;
+}
+.name {
+  color: #000000;
+  text-align: left;
+  font-family: "Signika-Medium", sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  opacity: 0.9;
+  position: relative;
+}
+.frame-222 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 527px;
+  top: 344px;
+}
+.group-52 {
+  flex-shrink: 0;
+  width: 45px;
+  height: 45px;
+  position: static;
+}
+.ellipse-10 {
+  background: var(--grey, #1f1f1f);
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.group-522 {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 7px;
+  top: 8px;
+  overflow: visible;
+}
+.group-53 {
+  flex-shrink: 0;
+  width: 45px;
+  height: 45px;
+  position: static;
+}
+.ellipse-102 {
+  background: var(--white, #ffffff);
+  border-radius: 50%;
+  border-style: solid;
+  border-color: var(--grey, #1f1f1f);
+  border-width: 2px;
+  opacity: 0.8;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  left: 100px;
+  top: 0px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.group-523 {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 93px;
+  top: 8px;
+  overflow: visible;
+}
+.rectangle-44 {
+  background: linear-gradient(
+    91.99deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  width: 258px;
+  height: 360px;
+  position: absolute;
+  left: 1230px;
+  top: 0px;
+}
+.frame-237 {
+  width: 1359px;
+  height: 124px;
+  position: absolute;
+  left: 63px;
+  top: 81px;
+}
+.frame-2112 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.valoraciones2 {
+  color: var(--black, #000000);
+  text-align: center;
+  font-family: "Signika-Regular", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.01em;
+  font-weight: 400;
+  opacity: 0.4;
+  position: relative;
+}
+.mis-valoraciones {
+  color: var(--black, #000000);
+  text-align: left;
+  font-family: "Signika-Bold", sans-serif;
+  font-size: 63px;
+  font-weight: 700;
+  text-transform: uppercase;
+  opacity: 0.9;
+  position: relative;
+}
+.frame-47 {
+  background: var(--grey, #1f1f1f);
+  border-radius: 15px;
+  padding: 17px 30px 17px 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 1173px;
+  top: 32px;
+}
+.valoracion {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Signika-Bold", sans-serif;
+  font-size: 21px;
+  font-weight: 700;
+  position: relative;
+}
+.contacto {
+  background: var(--white, #ffffff);
+  width: 1550px;
+  height: 892px;
+  position: absolute;
+  left: 0px;
+  top: 5010px;
+  overflow: hidden;
+}
+.rectangle-45 {
+  background: linear-gradient(
+    to left,
+    rgba(0, 0, 0, 0.65),
+    rgba(0, 0, 0, 0.65)
+  );
+  width: 1550px;
+  height: 425px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+._2024 {
+  color: var(--dark, #0a142f);
+  text-align: center;
+  font-family: "Signika-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  opacity: 0.7;
+  position: absolute;
+  left: calc(50% - 130px);
+  bottom: 2.24%;
+  top: 95.41%;
+  height: 2.35%;
+  width: 261px;
+}
+.frame-2113 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: calc(50% - 361px);
+  top: 121px;
+}
+.contactanos-hoy {
+  color: var(--white, #ffffff);
+  text-align: center;
+  font-family: "Signika-Medium", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+  opacity: 0.87;
+  position: relative;
+}
+._57-3022326196 {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "Signika-Bold", sans-serif;
+  font-size: 63px;
+  font-weight: 700;
+  text-transform: uppercase;
+  opacity: 0.9;
+  position: relative;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis {
+  color: var(--white, #ffffff);
+  text-align: center;
+  font-family: "Signika-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  opacity: 0.4;
+  position: relative;
+  width: 722px;
+}
+.frame-236 {
+  width: 960px;
+  height: 190px;
+  position: absolute;
+  left: 63px;
+  top: 492px;
+}
+.frame-227 {
+  width: 324px;
+  height: 154px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-226 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-52 {
+  flex-shrink: 0;
+  width: 206px;
+  height: 98px;
+  position: relative;
+  object-fit: cover;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis2 {
+  color: var(--black, #000000);
+  text-align: left;
+  font-family: "Signika-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  opacity: 0.4;
+  position: relative;
+  width: 324px;
+}
+.frame-229 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 524px;
+  top: 0px;
+}
+.menu {
+  color: #000000;
+  text-align: left;
+  font-family: "Signika-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: relative;
+}
+.frame-228 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.inicio {
+  color: #000000;
+  text-align: left;
+  font-family: "Signika-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  opacity: 0.4;
+  position: relative;
+}
+.nosotros2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Signika-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  opacity: 0.4;
+  position: relative;
+}
+.entrenadores3 {
+  color: #000000;
+  text-align: left;
+  font-family: "Signika-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  opacity: 0.4;
+  position: relative;
+}
+.planes2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Signika-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  opacity: 0.4;
+  position: relative;
+}
+.valoraciones3 {
+  color: #000000;
+  text-align: left;
+  font-family: "Signika-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  opacity: 0.4;
+  position: relative;
+}
+.frame-235 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 827px;
+  top: 0px;
+}
+.redes-sociales {
+  color: #000000;
+  text-align: left;
+  font-family: "Signika-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: relative;
+}
+.frame-234 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-230 {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: center;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  position: relative;
+}
+.linkedin-02 {
+  opacity: 0.4;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.linked-in {
+  color: #000000;
+  text-align: left;
+  font-family: "Signika-Medium", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  opacity: 0.43;
+  position: relative;
+}
+.frame-231 {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.facebook-02 {
+  opacity: 0.4;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.facebook {
+  color: #000000;
+  text-align: left;
+  font-family: "Signika-Medium", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  opacity: 0.43;
+  position: relative;
+}
+.frame-232 {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.instagram {
+  opacity: 0.4;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.instagram2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Signika-Medium", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  opacity: 0.43;
+  position: relative;
+}
+.frame-233 {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.github {
+  opacity: 0.4;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.github2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Signika-Medium", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  opacity: 0.43;
+  position: relative;
+}
+.home {
+  width: 1550px;
+  height: 1052px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.home-page {
+  background: var(--white, #ffffff);
+  width: 1550px;
+  height: 850px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.rectangle-27 {
+  background: var(--grey, #1f1f1f);
+  width: 441px;
+  height: 850px;
+  position: absolute;
+  left: 1109px;
+  top: 0px;
+}
+.frame-184 {
+  display: flex;
+  flex-direction: column;
+  gap: 46px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 64px;
+  top: 228.5px;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 58px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1803 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.supera-tu-limite {
+  color: var(--black, #000000);
+  text-align: left;
+  font-family: "Signika-Bold", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  text-transform: uppercase;
+  opacity: 0.9;
+  position: relative;
+  width: 460px;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat5 {
+  color: var(--black, #000000);
+  text-align: left;
+  font-family: "Signika-Light", sans-serif;
+  font-size: 25px;
+  font-weight: 300;
+  opacity: 0.4;
+  position: relative;
+  width: 645px;
+}
+.frame-1832 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.comienza {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "Signika-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+}
+.frame-182 {
+  opacity: 0.9;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.play-circle {
+  flex-shrink: 0;
+  width: 30px;
+  height: 30px;
+  position: relative;
+  overflow: visible;
+}
+.explora {
+  color: var(--black, #000000);
+  text-align: left;
+  font-family: "Signika-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+}
+.social-media {
+  opacity: 0.7;
+  display: flex;
+  flex-direction: row;
+  gap: 45px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.facebook-022 {
+  flex-shrink: 0;
+  width: 36px;
+  height: 36px;
+  position: relative;
+  overflow: visible;
+}
+.instagram3 {
+  flex-shrink: 0;
+  width: 36px;
+  height: 36px;
+  position: relative;
+  overflow: visible;
+}
+.linkedin-022 {
+  flex-shrink: 0;
+  width: 36px;
+  height: 36px;
+  position: relative;
+  overflow: visible;
+}
+.github3 {
+  flex-shrink: 0;
+  width: 36px;
+  height: 36px;
+  position: relative;
+  overflow: visible;
+}
+.inicio2 {
+  color: var(--color, #0d0b0b);
+  text-align: left;
+  font-family: "Signika-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 221px;
+  top: 45px;
+}
+.nosotros3 {
+  color: var(--color, #0d0b0b);
+  text-align: left;
+  font-family: "Signika-Light", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  opacity: 0.6;
+  position: absolute;
+  left: 329px;
+  top: 45px;
+}
+.entrenadores4 {
+  color: var(--color, #0d0b0b);
+  text-align: left;
+  font-family: "Signika-Light", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  opacity: 0.6;
+  position: absolute;
+  left: 469px;
+  top: 45px;
+}
+.valoraciones4 {
+  color: var(--color, #0d0b0b);
+  text-align: left;
+  font-family: "Signika-Light", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  opacity: 0.6;
+  position: absolute;
+  left: 655px;
+  top: 45px;
+}
+.planes3 {
+  color: var(--color, #0d0b0b);
+  text-align: left;
+  font-family: "Signika-Light", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  opacity: 0.6;
+  position: absolute;
+  left: 835px;
+  top: 45px;
+}
+.group-20 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-25 {
+  background: var(--black, #000000);
+  border-radius: 15px;
+  border-style: solid;
+  border-color: var(--black, #000000);
+  border-width: 2px;
+  width: 120px;
+  height: 50px;
+  position: absolute;
+  left: 966px;
+  top: 35px;
+}
+.contacto2 {
+  color: #bb363f;
+  text-align: left;
+  font-family: "Signika-SemiBold", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - -215px);
+  top: calc(50% - 376px);
+}
+.rectangle-51 {
+  width: 180px;
+  height: 83px;
+  position: absolute;
+  left: 15px;
+  top: 11px;
+  object-fit: cover;
+}
+.vector-1 {
+  width: 0.65px;
+  height: 1.52px;
+  position: absolute;
+  left: 1211.03px;
+  top: 125.03px;
+  overflow: visible;
+}
+.vector-2 {
+  width: 0.47px;
+  height: 1.52px;
+  position: absolute;
+  left: 1211.03px;
+  top: 125.43px;
+  overflow: visible;
+}
+.vector-3 {
+  width: 0.07px;
+  height: 0.33px;
+  position: absolute;
+  left: 1212.77px;
+  top: 126.57px;
+  overflow: visible;
+}
+.vector-4 {
+  width: 0.07px;
+  height: 0px;
+  position: absolute;
+  left: 1219.79px;
+  top: 126.27px;
+  overflow: visible;
+}
+.vector-5 {
+  width: 5.43px;
+  height: 1.31px;
+  position: absolute;
+  left: 1214.5px;
+  top: 125.92px;
+  overflow: visible;
+}
+.vector-6 {
+  width: 3.85px;
+  height: 0px;
+  position: absolute;
+  left: 1216.73px;
+  top: 118.65px;
+  overflow: visible;
+}
+.vector-7 {
+  width: 2.49px;
+  height: 1.03px;
+  position: absolute;
+  left: 1217.1px;
+  top: 125.15px;
+  overflow: visible;
+}
+.figures-page {
+  background: var(--white, #ffffff);
+  width: 1550px;
+  height: 202px;
+  position: absolute;
+  left: 0px;
+  top: 850px;
+  overflow: hidden;
+}
+.rectangle-28 {
+  background: var(--grey, #1f1f1f);
+  width: 1550px;
+  height: 232px;
+  position: absolute;
+  left: calc(50% - 775px);
+  top: calc(50% - 116px);
+}
+.frame-190 {
+  display: flex;
+  flex-direction: row;
+  gap: 200px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: calc(50% - 652px);
+  top: calc(50% - 44px);
+}
+.frame-186 {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._100 {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "Signika-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: relative;
+}
+.frame-185 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.miembros-felices {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "Signika-SemiBold", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  position: relative;
+}
+.nuestra-comunidad-crece-rapido {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "Signika-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-188 {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._6 {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "Signika-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: relative;
+}
+.a-os-experiencia {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "Signika-SemiBold", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  position: relative;
+}
+.experiencia-en-varios-ejercicios {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "Signika-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-187 {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._1 {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "Signika-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: relative;
+}
+.entrenador-certificado {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "Signika-SemiBold", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  position: relative;
+}
+.guia-en-cada-paso {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "Signika-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-189 {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._90 {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "Signika-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: relative;
+}
+.sastifaccion-clientes {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "Signika-SemiBold", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  position: relative;
+}
+.aseguramos-excelente-servicio {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "Signika-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+}
+._2-25 {
+  width: 593px;
+  height: 850px;
+  position: absolute;
+  left: 957px;
+  top: 0px;
+  object-fit: cover;
+}
